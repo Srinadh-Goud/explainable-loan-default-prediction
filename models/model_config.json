@@ -1,0 +1,6 @@
+{
+    "model_name": "Tuned Balanced XGBoost",
+    "decision_threshold": 0.62,
+    "target": "Default",
+    "dataset_rows": 255347
+}
